@@ -1,5 +1,5 @@
 .titulo{
-text-align: center;
+text-align:center;
 
 
 
@@ -23,6 +23,9 @@ ul.disc {
     -moz-transition: opacity 400ms ease-in;
     transition: opacity 400ms ease-in;
     pointer-events: none;
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
 
   }
   .modal:target {
@@ -43,17 +46,33 @@ ul.disc {
     top: -20px;
     text-align: center;
     line-height: 30px;
-    margin-top: end;
+    margin-top: 5px;
     background: #ff4545;
     border-radius: 50%;
-    font-size: 25px;
+    font-size: 16px;
     color: #8d0000;
   }
 
 .corpo{
-  text-align: left;
+  text-align: justify;
+  margin-left: 10px;
+  margin-right: 10px;
+
 }
 .link{
   color: white;
- 
+
+}
+.botao{
+  display: flex;
+  justify-content: center;
+  padding: 1%;
+}
+
+.corpo1{
+  text-align: justify;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 25px;
+  margin-bottom: 10px;
 }
