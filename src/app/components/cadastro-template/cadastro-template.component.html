@@ -16,22 +16,23 @@
 
 
   <form class="example-form">
-    <mat-form-field class="example-full-width">
-      <mat-label>Nome</mat-label>
-      <input matInput disabled value="Digite seu Nome">
-    </mat-form-field>
+
 
     <table class="example-full-width" cellspacing="0"><tr>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>Digite seu Nome</mat-label>
+        <input matInput>
+      </mat-form-field></td>
       <td><mat-form-field class="example-full-width">
         <mat-label>Digite seu e-mail</mat-label>
         <input matInput>
       </mat-form-field></td>
-      <td><mat-form-field class="example-full-width">
-        <mat-label>Digite seu telefone</mat-label>
-        <input matInput>
-      </mat-form-field></td>
-    </tr></table>
 
+    </tr></table>
+    <td><mat-form-field class="example-full-width">
+      <mat-label>Digite seu telefone</mat-label>
+      <input matInput>
+    </mat-form-field></td>
 
 
     <p>
@@ -50,12 +51,15 @@
         <mat-label>Estado</mat-label>
         <input matInput placeholder="Ex. São Paulo">
       </mat-form-field></td>
-      <td><mat-form-field class="example-full-width">
-        <mat-label>CEP</mat-label>
-        <input matInput #postalCode maxlength="5" placeholder="Ex. 0870000" value="">
-        <mat-hint align="end">{{postalCode.value.length}} / 5</mat-hint>
-      </mat-form-field></td>
+      <br>
+
     </tr></table>
+
+    <td><mat-form-field class="example-full-width">
+      <mat-label>CEP</mat-label>
+      <input matInput #postalCode maxlength="7" placeholder="Ex. 0870000" value="">
+      <mat-hint align="end">{{postalCode.value.length}} / 5</mat-hint>
+    </mat-form-field></td>
   </form>
   <div class="example-button-row">
 
