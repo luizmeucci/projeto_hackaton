@@ -1,1 +1,11 @@
-<p>ajuda-template works!</p>
+<div class="inicio">
+  <span class="descricao"
+    >Confira aqui algumas instituições disponíveis para a ajudar uma mulher que
+    está em perigo.</span
+  >
+  <button  class="botao" mat-button color="primary">Mostrar</button>
+</div>
+<app-ajuda-card
+  *ngFor="let item of listaDeAjuda"
+  [ajuda]="item"
+></app-ajuda-card>

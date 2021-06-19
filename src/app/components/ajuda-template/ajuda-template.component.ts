@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { AjudaModel } from 'src/app/services/ajuda-model';
+import { AjudaApiService} from 'src/app/services/ajuda-api.service';
 
 @Component({
   selector: 'app-ajuda-template',
@@ -7,9 +9,17 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AjudaTemplateComponent implements OnInit {
 
-  constructor() { }
+
+  listaDeAjuda: AjudaModel[] = [];
+
+  constructor(public ajudaApi: AjudaApiService) { }
 
   ngOnInit(): void {
-  }
 
+    this.ajudaApi.get().subscribe({
+      next: (retornoDaApi) => {
+        this.listaDeAjuda = retornoDaApi;
+      }
+    });
+}
 }

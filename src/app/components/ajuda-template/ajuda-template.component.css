@@ -1,0 +1,15 @@
+.ajuda{
+  text-align: center;
+}
+
+.descricao{
+  display: flex;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.botao{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
