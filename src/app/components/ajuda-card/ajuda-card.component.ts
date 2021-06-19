@@ -9,10 +9,13 @@ import { AjudaModel } from 'src/app/services/ajuda-model';
 export class AjudaCardComponent implements OnInit {
 
   @Input() ajuda: AjudaModel | undefined
+  validacao: boolean = false;
 
   constructor() { }
 
   ngOnInit(): void {
   }
-
+  mostrarComponente(){
+    this.validacao = !this.validacao;
+  }
 }

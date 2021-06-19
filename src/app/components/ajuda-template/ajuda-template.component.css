@@ -5,11 +5,10 @@
 .descricao{
   display: flex;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 .botao{
   display: flex;
-  flex-direction: row;
   justify-content: center;
-  align-items: center;
+  margin-bottom: 15px;
 }
