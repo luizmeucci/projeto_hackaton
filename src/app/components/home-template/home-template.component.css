@@ -1,13 +1,15 @@
 .titulo{
 text-align: center;
 
+
+
 }
 ul.disc {
 	list-style-type: disc;
 	}
 
   .modal {
-    background-color: grey;
+    background-color: rgb(61, 61, 61);
     position: fixed;
     top: 0;
     right: 0;
@@ -21,6 +23,7 @@ ul.disc {
     -moz-transition: opacity 400ms ease-in;
     transition: opacity 400ms ease-in;
     pointer-events: none;
+
   }
   .modal:target {
     opacity: 1;
@@ -33,16 +36,24 @@ ul.disc {
     padding: 15px 20px;
 
   }
-  fechar {
+  .fechar {
     position: absolute;
     width: 30px;
     right: -15px;
     top: -20px;
     text-align: center;
     line-height: 30px;
-    margin-top: 5px;
+    margin-top: end;
     background: #ff4545;
     border-radius: 50%;
-    font-size: 16px;
+    font-size: 25px;
     color: #8d0000;
   }
+
+.corpo{
+  text-align: left;
+}
+.link{
+  color: white;
+ 
+}
