@@ -10,45 +10,54 @@
 
 <body>
 
-  <div>
-    <h1>Cadastre no Site</h1>
-    <p> Complete as Duas Informações</p>
-    <br>
-    <form>
-      <fieldset>
-        <div>
-          <label>Nome</label>
-          <Input type="text" name="nome" id="nome">
-        </div>
-        <div>
-          <label>Sobrenome</label>
-          <Input type="text" name="sobrenome" id="sobrenome">
-        </div>
-      </fieldset>
-
-      <div>
-        <br>
-        <label> Email</label>
-        <input type="email" name="email" id="email">
-
-      </div>
-      <div>
-        <br>
-        <label> Telefone</label>
-        <input type="tel" name="tel" id="tel">
-
-      </div>
-      <div>
-        <button type="submit"> Conluir Cadastro</button>
-             </div>
 
 
+  <form class="example-form">
+    <mat-form-field class="example-full-width">
+      <mat-label>Nome</mat-label>
+      <input matInput disabled value="Digite seu Nome">
+    </mat-form-field>
 
-    </form>
+    <table class="example-full-width" cellspacing="0"><tr>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>Digite seu e-mail</mat-label>
+        <input matInput>
+      </mat-form-field></td>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>Digite seu telefone</mat-label>
+        <input matInput>
+      </mat-form-field></td>
+    </tr></table>
+
+    <p>
+      <mat-form-field class="example-full-width">
+        <mat-label>Endereço</mat-label>
+        <textarea matInput placeholder="Digite Seu Endereço"></textarea>
+      </mat-form-field>
+          </p>
+
+    <table class="example-full-width" cellspacing="0"><tr>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>Cidade</mat-label>
+        <input matInput placeholder="Ex.São Paulo">
+      </mat-form-field></td>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>Estado</mat-label>
+        <input matInput placeholder="Ex. São Paulo">
+      </mat-form-field></td>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>CEP</mat-label>
+        <input matInput #postalCode maxlength="5" placeholder="Ex. 0870000" value="">
+        <mat-hint align="end">{{postalCode.value.length}} / 5</mat-hint>
+      </mat-form-field></td>
+    </tr></table>
+  </form>
 
 
-  </div>
+
 
 </body>
 
 </html>
+
+

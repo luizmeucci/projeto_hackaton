@@ -19,7 +19,7 @@ import { AjudaCardComponent } from './components/ajuda-card/ajuda-card.component
 import { HttpClientModule } from '@angular/common/http';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import { CadastroTemplateComponent } from './components/cadastro-template/cadastro-template.component';
-
+import {MatInputModule} from '@angular/material/input';
 
 @NgModule({
   declarations: [
@@ -42,7 +42,8 @@ import { CadastroTemplateComponent } from './components/cadastro-template/cadast
     MatIconModule,
     MatListModule,
     MatCardModule,
-    HttpClientModule
+    HttpClientModule,
+    MatInputModule
   ],
   providers: [],
   bootstrap: [AppComponent]
