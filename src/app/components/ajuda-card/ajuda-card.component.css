@@ -1,4 +1,14 @@
 .imgInstituicao{
   width: 100%;
 }
+.texto{
+  text-align: justify;
+  text-justify: inter-word;
+}
+.card{
+  padding: 2px;
+}
 
+.mat-flat-button{
+  background-color: rgb(29, 29, 29);
+}
