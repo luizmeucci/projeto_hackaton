@@ -11,6 +11,7 @@ export class AjudaTemplateComponent implements OnInit {
 
 
   listaDeAjuda: AjudaModel[] = [];
+  validacao: boolean = false;
 
   constructor(public ajudaApi: AjudaApiService) { }
 
@@ -21,5 +22,9 @@ export class AjudaTemplateComponent implements OnInit {
         this.listaDeAjuda = retornoDaApi;
       }
     });
+}
+
+mostrarComponentes(){
+  this.validacao = !this.validacao;
 }
 }
