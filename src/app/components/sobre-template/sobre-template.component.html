@@ -1,1 +1,4 @@
-<p>sobre-template works!</p>
+<app-sobre-card
+*ngFor="let item of listaDeInfo"
+  [sobre]="item"
+></app-sobre-card>

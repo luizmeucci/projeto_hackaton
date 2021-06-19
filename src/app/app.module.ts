@@ -20,6 +20,8 @@ import { HttpClientModule } from '@angular/common/http';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import { CadastroTemplateComponent } from './components/cadastro-template/cadastro-template.component';
 import {MatInputModule} from '@angular/material/input';
+import { SobreCardComponent } from './components/sobre-card/sobre-card.component';
+
 
 @NgModule({
   declarations: [
@@ -29,7 +31,8 @@ import {MatInputModule} from '@angular/material/input';
     HomeTemplateComponent,
     AjudaTemplateComponent,
     AjudaCardComponent,
-    CadastroTemplateComponent
+    CadastroTemplateComponent,
+    SobreCardComponent
   ],
   imports: [
     BrowserModule,

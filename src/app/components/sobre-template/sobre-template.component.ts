@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { SobreApiService } from 'src/app/services/sobre-api.service';
+import { SobreModel } from 'src/app/services/sobre-model';
 
 @Component({
   selector: 'app-sobre-template',
@@ -7,9 +9,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SobreTemplateComponent implements OnInit {
 
-  constructor() { }
+  listaDeInfo: SobreModel[] = []
+
+  constructor(public sobreApi: SobreApiService) { }
 
   ngOnInit(): void {
+    this.sobreApi.get().subscribe({
+      next: (retornoDaApi) => {
+        this.listaDeInfo = retornoDaApi;
+      }
+    });
   }
 
 }

@@ -1,0 +1,9 @@
+.like:hover{
+  background-color: rgb(141, 141, 232);
+  transition-delay: 0.1s;
+}
+
+.share:hover{
+  background-color: rgb(223, 121, 121);
+  transition-delay: 0.1s;
+}
