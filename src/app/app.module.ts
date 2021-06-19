@@ -14,6 +14,12 @@ import { MatListModule } from '@angular/material/list';
 import { SobreTemplateComponent } from './components/sobre-template/sobre-template.component';
 import { HomeTemplateComponent } from './components/home-template/home-template.component';
 import { AjudaTemplateComponent } from './components/ajuda-template/ajuda-template.component';
+import { MatCardModule } from '@angular/material/card';
+import { AjudaCardComponent } from './components/ajuda-card/ajuda-card.component';
+import { HttpClientModule } from '@angular/common/http';
+import {MatFormFieldModule} from '@angular/material/form-field';
+import { CadastroTemplateComponent } from './components/cadastro-template/cadastro-template.component';
+
 
 @NgModule({
   declarations: [
@@ -21,7 +27,9 @@ import { AjudaTemplateComponent } from './components/ajuda-template/ajuda-templa
     MenuTemplateComponent,
     SobreTemplateComponent,
     HomeTemplateComponent,
-    AjudaTemplateComponent
+    AjudaTemplateComponent,
+    AjudaCardComponent,
+    CadastroTemplateComponent
   ],
   imports: [
     BrowserModule,
@@ -32,7 +40,9 @@ import { AjudaTemplateComponent } from './components/ajuda-template/ajuda-templa
     MatButtonModule,
     MatSidenavModule,
     MatIconModule,
-    MatListModule
+    MatListModule,
+    MatCardModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

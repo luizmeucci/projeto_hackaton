@@ -1,0 +1,15 @@
+<mat-card>
+  <img class="imgInstituicao" [src]="ajuda?.imagem">
+
+<h2>{{ajuda?.nome}}</h2>
+  ​
+  <button mat-stroked-button color="accent" (click)="mostrarComponente()">Ver sobre</button>
+  <div class="info"
+  *ngIf="validacao">
+    <span class="price">{{ajuda?.descricao}}</span>
+    <div class="info">
+      <span>Site: {{ajuda?.site}}</span>
+    </div>
+  </div>
+  <mat-divider></mat-divider>
+</mat-card>
