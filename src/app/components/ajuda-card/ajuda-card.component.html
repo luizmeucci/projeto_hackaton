@@ -1,11 +1,12 @@
 <mat-card>
-  <img [src]="ajuda?.imagem">
+  <img class="imgInstituicao" [src]="ajuda?.imagem">
 ​
   <div class="info">
-    <span>{{ajuda?.site}}</span>
+    <h2>{{ajuda?.nome}}</h2>
     <span class="price">{{ajuda?.descricao}}</span>
   </div>
   <div class="info">
-    <span>{{ajuda?.nome}}</span>
+    <span>Site: {{ajuda?.site}}</span>
   </div>
+  <mat-divider></mat-divider>
 </mat-card>
