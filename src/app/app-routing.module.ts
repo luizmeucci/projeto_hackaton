@@ -4,6 +4,7 @@ import { AjudaTemplateComponent } from './components/ajuda-template/ajuda-templa
 import { HomeTemplateComponent } from './components/home-template/home-template.component';
 import { MenuTemplateComponent } from './components/menu-template/menu-template.component';
 import { SobreTemplateComponent } from './components/sobre-template/sobre-template.component';
+import { CadastroTemplateComponent } from './components/cadastro-template/cadastro-template.component';
 
 const routes: Routes = [
   {
@@ -20,6 +21,11 @@ const routes: Routes = [
     {
       path: 'ajuda',
       component: AjudaTemplateComponent
+    },
+
+    {
+      path: 'cadastro',
+      component: CadastroTemplateComponent
     }
   ]
 

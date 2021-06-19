@@ -18,6 +18,7 @@ import { MatCardModule } from '@angular/material/card';
 import { AjudaCardComponent } from './components/ajuda-card/ajuda-card.component';
 import { HttpClientModule } from '@angular/common/http';
 
+import { CadastroTemplateComponent } from './components/cadastro-template/cadastro-template.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { HttpClientModule } from '@angular/common/http';
     SobreTemplateComponent,
     HomeTemplateComponent,
     AjudaTemplateComponent,
-    AjudaCardComponent
+    AjudaCardComponent,
+    CadastroTemplateComponent
   ],
   imports: [
     BrowserModule,
