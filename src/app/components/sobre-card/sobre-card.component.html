@@ -1,0 +1,16 @@
+<mat-card class="example-card">
+  <mat-card-header>
+    <div mat-card-avatar class="example-header-image"></div>
+    <mat-card-title>{{sobre?.nome}}</mat-card-title>
+    <mat-card-subtitle> Data de publicação da lei: {{sobre?.data}}</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+    <p>{{sobre?.descricao}}</p>
+  </mat-card-content>
+  <mat-card-actions>
+    <button class="like" mat-button>Curtir</button>
+    <button class="share" mat-button>Compartilhar</button>
+  </mat-card-actions>
+  <mat-divider></mat-divider>
+</mat-card>
+
