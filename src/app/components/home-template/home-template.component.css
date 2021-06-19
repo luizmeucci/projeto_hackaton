@@ -1,6 +1,8 @@
 .titulo{
 text-align: center;
 
+
+
 }
 ul.disc {
 	list-style-type: disc;
@@ -21,6 +23,7 @@ ul.disc {
     -moz-transition: opacity 400ms ease-in;
     transition: opacity 400ms ease-in;
     pointer-events: none;
+
   }
   .modal:target {
     opacity: 1;
@@ -46,3 +49,11 @@ ul.disc {
     font-size: 25px;
     color: #8d0000;
   }
+
+.corpo{
+  text-align: left;
+}
+.link{
+  color: white;
+ 
+}
