@@ -1,5 +1,5 @@
 .titulo{
-text-align: center;
+text-align:center;
 
 
 
@@ -23,6 +23,7 @@ ul.disc {
     -moz-transition: opacity 400ms ease-in;
     transition: opacity 400ms ease-in;
     pointer-events: none;
+    text-align: justify;
 
   }
   .modal:target {
@@ -48,12 +49,19 @@ ul.disc {
     border-radius: 50%;
     font-size: 25px;
     color: #8d0000;
+    padding: 1%;
   }
 
 .corpo{
-  text-align: left;
+  text-align: justify;
+
 }
 .link{
   color: white;
- 
+
+}
+.botao{
+  display: flex;
+  justify-content: center;
+  padding: 1%;
 }
