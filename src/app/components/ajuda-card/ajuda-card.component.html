@@ -1,3 +1,4 @@
+
 <mat-card>
   <img class="imgInstituicao" [src]="ajuda?.imagem">
 
@@ -6,9 +7,9 @@
   <button mat-stroked-button color="accent" (click)="mostrarComponente()">Ver sobre</button>
   <div class="info"
   *ngIf="validacao">
-    <span class="price">{{ajuda?.descricao}}</span>
+    <span class="texto">{{ajuda?.descricao}}</span>
     <div class="info">
-      <span>Site: {{ajuda?.site}}</span>
+      <a mat-flat-button href="{{ajuda?.site}}" target="_blank">Confira aqui mais infos sobre esta instituição</a>
     </div>
   </div>
   <mat-divider></mat-divider>
