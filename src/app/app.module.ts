@@ -14,6 +14,7 @@ import { MatListModule } from '@angular/material/list';
 import { SobreTemplateComponent } from './components/sobre-template/sobre-template.component';
 import { HomeTemplateComponent } from './components/home-template/home-template.component';
 import { AjudaTemplateComponent } from './components/ajuda-template/ajuda-template.component';
+import { CadastroTemplateComponent } from './components/cadastro-template/cadastro-template.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { AjudaTemplateComponent } from './components/ajuda-template/ajuda-templa
     MenuTemplateComponent,
     SobreTemplateComponent,
     HomeTemplateComponent,
-    AjudaTemplateComponent
+    AjudaTemplateComponent,
+    CadastroTemplateComponent
   ],
   imports: [
     BrowserModule,
