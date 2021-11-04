@@ -1,0 +1,1344 @@
+PAP Uninter PAP UNINTER <#/pap> Ava Univirtus
+/
+
+/
+/
+
+/ <#/ava> // EDUCAÇÃO
+CONTINUADA Ava Univirtus EJA UNINTER <#/ava>
+
+Voltar <javascript: void(0)>
+/
+
+/ <#/ava/usuario> LUIZ SANTO
+RU: 3534406 Avatar de LUIZ SANTO
+/
+
+/
+<#/ava/aviso/home>Avisos <#/ava/aviso/home>
+/
+
+/
+<#/ava/MensagemFidelizacao/>Contatos <#/ava/MensagemFidelizacao/>
+
+ 1. Curso: CST ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - DISTÂNCIA
+
+
+      Sistemas de Informação Gerencial
+
+
+Questão 1/20 - Sistemas de Informação Gerencial
+
+Tomar uma decisão significa escolher o que deve ser feito em determinada situação, e essa ação deve ocorrer sempre que houver mais de uma alternativa para resolver um problema ou alterar uma situação. Sobre do processo de tomada de decisão, analise se as afirmativas a seguir se são verdadeiras (V) ou falsas (F).
+
+
+I - ( ) As decisões não devem ser classificadas de acordo com sua complexidade, pois não existem decisões simples.
+
+
+II - (  ) As decisões complexas são baseadas em informações estimadas ou imprecisas, que deixam margem para incertezas ou podem causar grande impacto na organização.
+
+
+III - ( ) A complexidade das decisões gerenciais aumenta à medida que ascendemos nos níveis funcionais da organização, porque seus resultados se tornam menos previsíveis.
+
+
+IV  - ( ) De acordo com o grau de incerteza das informações e da previsibilidade das decisões, estas são classificadas de duas formas, decisão intelectual e decisão afetiva.
+
+*Marque a sequência correta:*
+
+Nota: 5.0
+
+	A	
+
+F-V-F-F
+
+	B	
+
+V-F-F-V
+
+	C	
+
+V-V-V-F
+
+	D	
+
+F-V-V-F 
+
+/
+
+/
+
+*Você acertou!*
+
+I - FALSA. As decisões podem ser classificadas de acordo com sua
+complexidade. Em um extremo estão as decisões simples que fazem parte do
+cotidiano e no outro as decisões complexas.
+
+II - As decisões complexas são baseadas em informações estimadas ou
+imprecisas, que deixam margem para incertezas ou podem causar grande
+impacto na organização. (Capítulo 03, p. 49).
+
+III - A complexidade das decisões gerenciais aumenta à medida que
+ascendemos nos níveis funcionais da organização, porque seus resultados
+se tornam menos previsíveis (Capítulo 03, p. 49).
+
+IV - FALSA. De acordo com o grau de incerteza das informações e da
+previsibilidade das decisões, estas são classificadas em tres tipos:
+estruturadas, não estruturadas e semiestruturadas.
+
+	E	
+
+F-F-F-V
+
+------------------------------------------------------------------------
+Questão 2/20 - Sistemas de Informação Gerencial
+
+A atividade gerencial pressupõe o planejamento e a coordenação das pessoas e dos processos organizacionais. Drucker (1972) resume as atividades de um gestor em cinco categorias: Estabelecer objetivos, organizar atividades, motivar e comunicar, mensurar e desenvolver as pessoas.
+
+
+A partir do que se aponta no enunciado analise as afirmativas a seguir:
+
+I. O gestor é responsável por estabelecer objetivos a serem atingidos por sua equipe e as tarefas a serem realizadas.
+
+II. A categoria de organizar as atividades, não é de responsabilidade do gestor e sim do setor de operacionalização da organização.
+
+III. Na categoria de motivar e comunicar, o gestor integra as pessoas em uma equipe por meio de decisões sobre salários, colocações e promoções e da comunicação com a própria equipe.
+
+IV. No que diz respeito a categoria de desenvolver as pessoas, o gestor é responsável exclusivamente na promoção do desenvolvimento profissional de sua equipe. O desenvolvimento pessoal, não deve ser levado em consideração dentro da organização.
+
+É correto o que se afirma em:
+
+Nota: 5.0
+
+	A	
+
+As afirmativas I e III, apenas.
+
+/
+
+/
+
+*Você acertou!*
+
+I. É categoria de um gestor, estabelecer objetivos – os objetivos a
+serem atingidos por sua equipe e as tarefas a serem realizadas.
+(Capítulo 03, p. 47)
+
+II. INCORRETA: A categoria de organizar as atividades, é de
+responsabilidade do gestor que deve decompor o trabalho em atividades
+gerenciáveis e selecionar as pessoas que realizarão tais tarefas.
+
+ III. Na categoria de motivar e comunicar, o gestor integra as pessoas
+em uma equipe por meio de decisões sobre salários, colocações e
+promoções e da comunicação com a própria equipe. (Capítulo 03, p. 47).
+
+IV. INCORRETA: No que diz respeito a categoria de desenvolver as
+pessoas, o gestor é responsável na promoção do desenvolvimento
+profissional e pessoal, de sua equipe por meio de capacitação e de
+espaços de criação do conhecimento.
+
+ 
+
+	B	
+
+As afirmativas II e IV, apenas.
+
+	C	
+
+A afirmativa IV, apenas.
+
+	D	
+
+As afirmativas II e III, apenas.
+
+	E	
+
+A afirmativa I, apenas.
+
+------------------------------------------------------------------------
+Questão 3/20 - Sistemas de Informação Gerencial
+
+Os sistemas de informação são compostos por bancos de dados, que precisam estar organizados de maneira a aumentar o controle e a produtividade, além de fornecer suporte à decisão nas organizações.
+
+
+Com base nos conhecimentos sobre sistemas integrados de gestão, analise as afirmações abaixo, considerando V para verdadeiro e F para falso.
+
+
+I – Redundância de dados é um problema gerado pelos ERP´s, uma vez que as bases de dados são integradas e acabam se tornando muito pesadas e lentas para processamento;
+
+
+II – O termo ERP corresponde a planejamento de recursos empresariais e está diretamente ligado à ideia de integração de diversos softwares, dentre eles sistemas de processamento de transações (SPT) e os sistemas de suporte à decisão (SSD).
+
+
+III – A integração de sistemas gera diversos benefícios tangíveis como redução de pessoal, o aumento de produtividade e das receitas; e intangíveis como o aprimoramento e padronização dos processos, satisfação dos clientes, flexibilidade e agilidade.
+
+
+IV – O objetivo maior de um ERP é a integração dos dados organizacionais e sua disponibilidade em tempo real, com um banco de dados único compartilhado por todas as aplicações.
+
+*Agora, marque a sequência correta.*
+
+Nota: 5.0
+
+	A	
+
+F, V, F, F
+
+	B	
+
+V, F, F, V
+
+	C	
+
+F, V, V, V
+
+	D	
+
+F, F, V, V
+
+/
+
+/
+
+*Você acertou!*
+
+Alternativa “d”. A afirmação I está incorreta, pois a redundância de
+dados é um problema gerado pela falta de integração entre os sistemas
+utilizados pela organização. A afirmação II está incorreta, pois apesar
+do termo ERP corresponder a planejamento de recursos empresariais, está
+ligado à ideia de um software de plataforma única, com uma base de dados
+única que integra todas as informações organizacionais. As afirmações
+III e IV correspondem a afirmações verdadeiras (ELEUTÉRIO, 2015, cap. 6).
+
+	E	
+
+F, V, F, V
+
+------------------------------------------------------------------------
+Questão 4/20 - Sistemas de Informação Gerencial
+
+*Leia o texto e responda à questão:** *
+
+
+Tomar uma decisão significa escolher o que deve ser feito em determinada situação, e essa ação deve ocorrer sempre que houver mais de uma alternativa para resolver um problema ou alterar uma situação. *Sobre o processo de tomada de decisão, analise se as afirmativas a seguir se são verdadeiras (V) ou falsas (F):* 
+
+
+I – (      ) As decisões não devem ser classificadas de acordo com sua complexidade, pois não existem decisões simples.
+
+
+II - (      ) As decisões complexas são baseadas em informações estimadas ou imprecisas, que deixam margem para incertezas ou podem causar grande impacto na organização.
+
+
+III - (      ) A complexidade das decisões gerenciais aumenta à medida que ascendemos nos níveis funcionais da organização, porque seus resultados se tornam menos previsíveis.
+
+
+IV - (      ) De acordo com o grau de incerteza das informações e da previsibilidade das decisões, estas são classificadas de duas formas, decisão intelectual e decisão afetiva. 
+
+
+*Assinale a alternativa que apresenta a sequência correta:*
+
+Nota: 5.0
+
+	A	
+
+F-V-F-F
+
+	B	
+
+V-F-F-V
+
+	C	
+
+V-V-V-F
+
+	D	
+
+F-V-V-F
+
+/
+
+/
+
+*Você acertou!*
+
+I - FALSA. As decisões podem ser classificadas de acordo com sua
+complexidade. Em um extremo estão as decisões simples que fazem parte do
+cotidiano e no outro as decisões complexas.
+
+II - As decisões complexas são baseadas em informações estimadas ou
+imprecisas, que deixam margem para incertezas ou podem causar grande
+impacto na organização. (Capítulo 03, p. 49).
+
+III - A complexidade das decisões gerenciais aumenta à medida que
+ascendemos nos níveis funcionais da organização, porque seus resultados
+se tornam menos previsíveis (Capítulo 03, p. 49).
+
+IV - FALSA. De acordo com o grau de incerteza das informações e da
+previsibilidade das decisões, estas são classificadas em tres tipos:
+estruturadas, não estruturadas e semiestruturadas.
+
+ 
+
+Referência: ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p. 49).
+
+	E	
+
+F-F-F-V
+
+------------------------------------------------------------------------
+Questão 5/20 - Sistemas de Informação Gerencial
+
+*Leia o texto e responda à questão:** *
+
+
+Na década de 1980, em decorrência das pesquisas no campo do processo decisório e com o aumento da capacidade dos computadores, surgiram as primeiras ferramentas analíticas criadas para apoiar o processo de decisão.
+
+
+ *De acordo com os conceitos abordados no livro base da disciplina, responda: o que é uma decisão multicritério? *
+
+
+*Assinale a alternativa correta:* 
+
+Nota: 5.0
+
+	A	
+
+É um conjunto de elementos que interagem com a finalidade de produzir um
+resultado específico, no qual cada elemento afeta o funcionamento do
+todo e também é afetado por ele
+
+	B	
+
+É aquela que se baseia em múltiplos critérios de avaliação sobre
+determinada variável de decisão.
+
+/
+
+/
+
+*Você acertou!*
+
+*Comentário:* Uma decisão multicritério é aquela que se baseia em
+múltiplos critérios de avaliação sobre determinada variável de decisão.
+Por exemplo, ao decidirmos sobre o melhor aparelho de TV a ser
+adquirido, podemos levar em conta múltiplos critérios, como preço,
+consumo de energia, dimensão da tela, tecnologia do display e período de
+garantia.
+
+ 
+
+ 
+
+*Referência:* ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p. 60-62-114. 
+
+	C	
+
+É uma série de elementos ou componentes inter-relacionados que coletam,
+manipulam e armazenam, disseminam os dados e informações e fornecem um
+mecanismo de feedback.
+
+	D	
+
+É um sistema organizado e integrado de geração, processamento,
+armazenamento e comunicação de dados e informações indispensável para a
+análise da situação e tomada de decisão.
+
+ 
+
+	E	
+
+É responsável por registrar os dados referentes às atividades básicas e
+rotineiras de uma empresa, como as vendas da padaria, os serviços do
+posto de combustíveis e o autoatendimento do banco.
+
+------------------------------------------------------------------------
+Questão 6/20 - Sistemas de Informação Gerencial
+
+*Leia o texto e responda à questão:** *
+
+
+Assim como nas outras áreas funcionais, os sistemas de informação são ferramentas valiosas para os gestores de RH no apoio às atividades de planejamento, administração, controle e tomada de decisões. Entre as principais aplicações de um sistema de RH estão o recrutamento e a seleção de colaboradores, a administração da folha de pagamentos e benefícios, a gestão de convênios, o planejamento de capacitação e treinamento, o desenvolvimento de carreiras, o gerenciamento de planos de saúde e da segurança no trabalho e a avaliação de desempenho dos colaboradores.ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade. Curitiba:  Intersaberes, 2015. 
+
+
+*De acordo com os conceitos abordados no livro base da disciplina, quais são os três principais módulos que são constituídos dos sistemas de RH? Assinale a alternativa correta:*
+
+
+* *
+
+Nota: 5.0
+
+	A	
+
+Integração, sindicado / negociações coletivas e gestão salarial.
+
+	B	
+
+Gestao de cargos e salários, políticas de RH e competitividade.
+
+	C	
+
+Administração de pessoal, treinamento e desenvolvimento e gestão salarial.
+
+/
+
+/
+
+*Você acertou!*
+
+*Administração de pessoal* – Refere-se às atividades de manutenção dos
+registros pessoais, recrutamento, análise de custos de mão de obra,
+análise da rotatividade de pessoal (/turnover/) e planejamento da
+necessidade de pessoal.
+
+*Treinamento e desenvolvimento* – Envolve avaliações de desempenho,
+levantamento das necessidades de capacitação, elaboração e execução de
+treinamentos e programas de desenvolvimento profissional.
+
+*Gestão salarial* – Inclui controle da folha de pagamentos,
+administração de benefícios, planejamento de salários e incentivos.
+
+* *
+
+*Referência: *ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p. 138.
+
+	D	Legislação trabalhista, mercado de trabalho, e concorrência.
+	E	
+
+ 
+
+Tipologia dos cargos, remuneração e desempenho / capacidade financeira.
+
+------------------------------------------------------------------------
+Questão 7/20 - Sistemas de Informação Gerencial
+
+*Leia o texto abaixo e responda à questão:* 
+
+
+Um sistema de informação é considerado estratégico quando é capaz de apoiar ou delinear a estratégia competitiva de uma unidade de negócio. [...] Para exercer influência sobre a estratégia de uma empresa, um sistema de informação deve considerar fatores externos à organização, ou seja, o seu ambiente de negócios, bem como proporcionar algum tipo de inovação. Assim, um sistema estratégico deve antecipar tendências e permitir aos gestores não apenas reagir, mas também agir de forma proativa. ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade. Curitiba:  Intersaberes, 2015. 
+
+
+*Uma das características dos sistemas estratégicos é a informação em tempo real. Qual a vantagem competitiva que esse tipo de informação possibilita? *
+
+
+*Assinale a alternativa correta*
+
+Nota: 5.0
+
+	A	
+
+É possível assegurar respostas rápidas e garantir qualidade dos
+indicadores de desempenho.
+
+/
+
+/
+
+*Você acertou!*
+
+Monitoram constantemente as informações provenientes dos ambientes
+interno e externo à organização, como, por exemplo, tendências de
+mercado, posicionamento de concorrentes, comportamento dos consumidores,
+indicadores econômicos, benchmarking etc.
+
+Um sistema de informação é considerado estratégico quando for capaz de
+realizar as seguintes funções (Hemmatfar, 2010):
+
+ 
+
+ 1. apoiar as decisões estratégicas;
+ 2. integrar os processos de negócios para otimizar os recursos
+    empresariais;
+ 3. utilizar as bases de dados da organização como fontes de inovação e
+    descoberta de conhecimento, empregando-se técnicas computacionais
+    que possibilitem revelar novas oportunidades de mercado;
+ 4. oferecer sistemas de tempo real para assegurar respostas rápidas e
+    garantir a qualidade dos indicadores de desempenho.
+
+ 
+
+É importante observarmos que um sistema de informação estratégico vai
+além de buscar a eficiência operacional de uma organização. Ele visa à
+integração de processos e informações de forma a manter a empresa
+sustentável e competitiva.
+
+ 
+
+Referência: ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p. 110 – 111.
+
+	B	
+
+É possível identificar o valor total gasto por determinado cliente e os
+produtos mais adquiridos.
+
+	C	
+
+É possível disponibilizar determinadas interfaces apenas para certos
+grupos de usuários.
+
+	D	
+
+É possível atender ao planejamento da produção, gerando as perspectivas
+ordens de compras.
+
+	E	
+
+É possível gerenciar os custos de pessoal, de insumos e serviços do projeto.
+
+------------------------------------------------------------------------
+Questão 8/20 - Sistemas de Informação Gerencial
+
+Em uma organização, as decisões tomadas por um gestor são o principal determinante do seu desempenho profissional. Elas estão presentes em todas as ações gerenciais, nos níveis intermediários e estratégicos das organizações.
+
+*A partir do conteúdo apresentado nas aulas e no livro-base da disciplina, a atividade gerencial pressupõe:*
+
+Nota: 5.0
+
+	A	
+
+Execução da atividade operacional a partir de estudos técnicos,
+qualidade operacional e foco no produto final.
+
+	B	
+
+Estar atento ao funcionamento dos equipamentos e maquinários assim como
+do ambiente de trabalho para que o desenvolvimento das atividades
+operacionais seja satisfatórias.
+
+	C	
+
+Desenvolver atividades de planejamento e coordenação das pessoas e dos
+processos organizacionais.
+
+/
+
+/
+
+*Você acertou!*
+
+O gestor não é aquele profissional que executa as tarefas diretamente,
+mas aquele que assegura que elas sejam realizadas por sua equipe e de
+acordo com os objetivos traçados. Portanto, a atividade gerencial
+pressupõe o planejamento e a coordenação das pessoas e dos processos
+organizacionais. (Cap. 3, p.47)
+
+	D	
+
+Estar atento a gestão de pessoas e promover várias discussões com os
+funcionários para encontrar em sua equipe profissionais com alto grau de
+persuasão.
+
+	E	Transformar as atividades gerenciáveis em atividades operacionais
+vinculadas a operacionalização e atribuídas a sua fiscalização,
+garantindo maior qualidade ao processo final.
+
+------------------------------------------------------------------------
+Questão 9/20 - Sistemas de Informação Gerencial
+
+*Leia o texto e responda à questão:*
+
+
+Existe uma forma de avaliarmos o valor de uma informação que é pela compreensão do seu propósito em uma organização. Segundo Moresi (2000), as informações são utilizadas basicamente para duas finalidades: compreender o ambiente de negócios – interno e externo – e agir sobre ele. Isso significa dizer que as informações estão diretamente relacionadas à avaliação das situações e ao processo decisório. Com isso, sua importância depende do nível de criticidade que ela representa na atividade gerencial.ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade. Curitiba:  Intersaberes, 2015. 
+
+
+*Em relação ao nível de **relevância **ou **importância**, as informações podem ser classificadas em categorias. **A partir desse contexto, e **de acordo com os estudos realizados durante a disciplina, **analise as sentenças abaixo indicando (V) para verdadeiro e (F) para falso e assinale a alternativa correta** referente **a classificação dessas categorias:* 
+
+
+(           ) irrelevantes
+
+
+(           ) potenciais
+
+
+(           ) mínimas
+
+
+(           ) críticas
+
+Nota: 0.0
+
+	A	
+
+V – V –V – F
+
+	B	
+
+V – F –V – V
+
+	C	
+
+V – V –V – V
+
+/
+
+/
+
+*Comentário:* Em relação ao nível de *relevância *ou *importância*, as
+informações podem ser classificadas em quatro categorias: irrelevantes,
+potenciais, mínimas e críticas. A abaixo ilustra essas categorias e o
+impacto que representam para as organizações.
+
+
+
+*Referência:* ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p. 35.
+
+	D	
+
+F – V –V – F
+
+	E	
+
+F – F –V – V
+
+------------------------------------------------------------------------
+Questão 10/20 - Sistemas de Informação Gerencial
+
+A qualidade de uma informação é avaliada pelos seguintes atributos: relevância, precisão, confiabilidade e temporalidade. 
+
+
+*Assinale a alternativa que apresenta a descrição correta de CONFIABILIDADE.*
+
+Nota: 5.0
+
+	A	
+
+Indica o grau de confiança na fonte produtora da informação.
+
+/
+
+/
+
+*Você acertou!*
+
+*Comentário:* *CONFIABILIDADE*: indica o grau de confiança na fonte
+produtora da informação; por exemplo, uma informação financeira
+produzida por um órgão oficial pode ser considerada mais confiável do
+que aquela divulgada por uma fonte informal.
+
+ 
+
+*Referência:* ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p. 36.
+
+ 
+
+	B	
+
+Indica a proximidade (ou margem de erro) da informação em relação ao
+fato em si.
+
+	C	
+
+Reflete a importância da informação para a tomada de decisão.
+
+	D	
+
+Refere-se ao tempo que a informação leva para ser apresentada ao tomador
+de decisão.
+
+	E	
+
+Reflete a relevância da informação para a tomada de decisão.
+
+------------------------------------------------------------------------
+Questão 11/20 - Sistemas de Informação Gerencial
+
+*Leia o texto abaixo, e responda à questão:* 
+
+
+Em relação às regras de circulação das informações, os fluxos podem ocorrer de maneira formal ou informal, a diferença entre ambas reside na agregação de diferentes possibilidades de interação, proporcionando maior liberdade de expressão e sendo essenciais para a gestão do conhecimento em uma organização. 
+
+
+Sobre fluxos formais e fluxos informais, relacione a Coluna A com a Coluna B às suas respectivas características. 
+
+
+
+
+
+*Coluna A*
+
+
+
+	
+
+*Coluna B*
+
+
+
+
+
+A - Fluxos formais;
+	(   ) I- São os que seguem normas e procedimentos bem definidos, previstos, estruturados e documentados nas políticas da organização.
+
+
+    
+	(   ) II- Estão na base da gestão da informação, refletindo as regras de circulação e proteção. Como exemplo, pode-se citar o envio de um relatório pelo gestor de um projeto aos participantes, conforme previsto no termo de abertura e em conformidade com a política de comunicação da organização.
+
+
+B - Fluxos informais;                                              
+	(   ) III- São iniciados de forma espontânea pelas pessoas, sem regras específicas e trafegando por múltiplos canais de comunicação.
+
+
+
+	(   ) IV- São as informações trocadas em ambientes interativos, como as salas de chat on-line, os fóruns de discussão e os ambientes de relacionamento. 
+
+
+** 
+*Após a análise, assinale a alternativa que apresenta a sequência correta:*
+
+
+ 
+
+Nota: 5.0
+
+	A	
+
+A: I e II / B: III e IV
+
+/
+
+/
+
+*Você acertou!*
+
+*Comentário:* A sentença correta é A: I e II; B: III e IV. Fluxos
+formais: são os que seguem normas e procedimentos bem definidos,
+previstos, estruturados e documentados nas políticas da organização.
+Eles estão na base da gestão da informação, refletindo as regras de
+circulação e proteção. Como exemplo, pode-se citar o envio de um
+relatório pelo gestor de um projeto aos participantes, conforme previsto
+no termo de abertura e em conformidade com a política de comunicação da
+organização. Fluxos informais: são iniciados de forma espontânea pelas
+pessoas, sem regras específicas e trafegando por múltiplos canais de
+comunicação. São as informações trocadas em ambientes interativos, como
+as salas de chat on-line, os fóruns de discussão e os ambientes de
+relacionamento.
+
+ 
+
+*Referência: *ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p. 19-20.
+
+ 
+
+	B	
+
+A: I e III / B: II e IV
+
+	C	
+
+A: I e IV / B: II e III
+
+	D	
+
+A: II e III / B: I e IV
+
+	E	
+
+A: II e IV / B: I e III
+
+------------------------------------------------------------------------
+Questão 12/20 - Sistemas de Informação Gerencial
+
+Uma organização estava com sérios problemas e há tempos suas ações vinham caindo consideravelmente. Uma consultoria foi contratada para auxiliar a empresa e o principal problema foi diagnosticado: falta de estoque para alguns produtos, excesso para outros e atraso na entrega do produto para o cliente. Porém, a empresa tinha vantagens em relação aos concorrentes: equipe de trabalho competente e fiel a empresa, que muitas vezes fazia horas extras, prezando pela qualidade do produto.
+
+
+Após análise da consultoria, os administradores/gestores elaboraram uma lista de mudanças e um plano para melhorar as operações e torná-las lucrativa, com foco no reajuste da produção e criação de indicadores para a área.
+
+*Se você fosse o consultor responsável pelas mudanças nessa empresa, qual sistema integrado de gestão você escolheria para planejar e prever as necessidades de produção, monitoramento e controle do estoque e para acompanhar os processos?*
+
+Nota: 5.0
+
+	A	
+
+Sistemas de informação para a qualidade
+
+	B	
+
+Sistemas de informação de manufatura
+
+/
+
+/
+
+*Você acertou!*
+
+A resposta correta é letra “b”, sistemas de informação de manufatura.
+Eles têm como função planejar e prever as necessidades de produção,
+monitoramento e controle do estoque e para acompanhar os processos
+(ELEUTERIO, M.A.M. Sistemas de Informações Gerenciais. Curitiba: Editora
+Intersaberes, 2015, p. 133, Aula 06)
+
+	C	
+
+Sistemas de controle industrial
+
+	D	
+
+Sistemas de gestão de projetos
+
+	E	
+
+Sistemas de gestão de pessoas
+
+------------------------------------------------------------------------
+Questão 13/20 - Sistemas de Informação Gerencial
+
+Ao contrário de Ford, os japoneses desenvolveram técnicas de gestão em qualidade onde realizavam o planejamento da qualidade, garantia de qualidade e compraram equipamentos necessários para cada tipo de serviço. Os funcionários da Toyota foram treinados, estudavam os modelos norte-americanos. Tudo isso faz parte das ferramentas e técnicas de gestão de qualidade nas empresas.
+
+
+Os japoneses da Toyota, com seu novo sistema de gestão flexível e inteligente, procuravam investir na fiscalização de possíveis falhas internas e externas. As internas são os desperdícios, com trabalhos desnecessários, problemas na comunicação, materiais. Possíveis despesas com produtos inválidos, que não tinham mais função, correção dos objetos com defeito, um reexame dos produtos e do trabalho, bem como a triagem de peças de carro, por exemplo, que poderiam ser vendidas a preços inferiores.
+
+*Qual SIG poderia ser utilizado pela Toyota para assegurar a qualidade dos produtos finais?*
+
+Nota: 5.0
+
+	A	
+
+Computer Aided Engineering (CAE) - Engenharia Assistida por Computador.
+
+	B	
+
+Material Requirements Planning (MRP) - Planejamento das Necessidades de
+Materiais.
+
+	C	
+
+Computer Aided Manufacturing (CAM) - Sistemas de Manufatura apoiados por
+Computador.
+
+	D	
+
+Sales Force Automation (SFA) - Automação da Força de Vendas.
+
+	E	
+
+Quality Information Systems (QISs) - Sistemas de Informação para Qualidade.
+
+/
+
+/
+
+*Você acertou!*
+
+O case Toyota é a representação da qualidade total nas organizações. O
+software que é incorporado no SIG de manufatura é o Quality Information
+Systemas (QISs), ou sistemas de informação para a qualidade (ELEUTERIO,
+M.A.M. Sistemas de Informações Gerenciais. Curitiba: Editora
+Intersaberes, 2015, p. 137, Aula 06)
+
+ 
+
+------------------------------------------------------------------------
+Questão 14/20 - Sistemas de Informação Gerencial
+
+Um sistema de informação (SI) é uma combinação de pessoas, hardware, software, redes de comunicações e recursos de dados que coleta, transforma e dissemina informações em uma organização.
+
+
+
+
+ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade. Curitiba:  Intersaberes, 2015.
+
+
+*A partir da imagem acima e da definição de Sistema de Informação, estudadas durante a disciplina no livro base, qual é a definição de SOFTWARE, segundo Pressman (2006, p. 29)?
+*
+
+
+*Assinale a alternativa correta: *
+
+
+**
+
+Nota: 5.0
+
+	A	
+
+É um conjunto de elementos internos que interagem com a finalidade de
+produzir um resultado específico.
+
+	B	
+
+É um produto que abrange os programas de computador e suas informações
+descritivas (documentação).
+
+/
+
+/
+
+*Você acertou!*
+
+*Comentário: *A definição de /software/ apenas como um conjunto de
+programas de computador é uma visão simplificada. O norte-americano
+Roger Pressman, prestigiado especialista em engenharia de software,
+observa que um software profissional não se resume apenas aos programas:
+ele deve incluir a documentação que o descreve e que possibilita sua
+manutenção ao longo do seu ciclo de vida. Segundo Pressman (2006, p.
+29), o software é “um produto que abrange os programas de computador e
+suas informações
+
+descritivas (documentação)”.
+
+ 
+
+*Referência: *ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p. 72.
+	C	
+
+É um sistema de informação estratégico como uma ferramenta capaz de
+alterar a condução dos negócios com o objetivo de assegurar a vantagem
+competitiva de uma organização.
+
+	D	
+
+É um sistema de atualização que combina modelos e dados para resolver
+problemas semiestruturados e alguns problemas não estruturados, com
+intenso envolvimento do usuário.
+
+	E	
+
+É um conjunto de partes interdependentes que, em seu todo, constitui uma
+unidade e apresenta três funções básicas de interação.
+
+------------------------------------------------------------------------
+Questão 15/20 - Sistemas de Informação Gerencial
+
+*Leia o texto e responda à questão:* 
+
+
+Há algum tempo as organizações se deparam com informações cada vez mais volumosas e complexas em suas tomadas de decisão. Tal volume e complexidade das informações impedem que elas sejam interpretadas pelos gestores em tempo hábil e com a profundidade necessária. A visualização e a interpretação em tempo real de grandes volumes de informações complexas e interdependentes tornaram-se, portanto,  elementos essenciais no cotidiano dos gestores estratégicos. Os modernos sistemas de informação, em particular os sistemas de BI, têm ferramentas analíticas específicas para essa finalidade. São as chamadas ferramentas /Olap – online analytical processing/, ou processamento analítico /online/ –, que possibilitam a análise rápida de grandes volumes de dados sob múltiplos ângulos de observação – o que denominamos de análise multidimensional. ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade. Curitiba:  Intersaberes, 2015. 
+
+
+*De acordo com os conceitos abordados no livro base da disciplina, quais são as três maneiras de explorar as estruturas multidimensionais de um Olap? Assinale a alternativa correta:*
+
+
+* *
+
+Nota: 5.0
+
+	A	
+
+Precisão, processamento e temporalidade.
+
+	B	
+
+Filtragem, críticas e apresentação.
+
+	C	
+
+Análise SWOT, processamento e temporalidade.
+
+	D	
+
+Detalhamento sucessivo, diferentes dimensões, diferentes visualizações.
+
+/
+
+/
+
+*Você acertou!*
+
+*Detalhamento sucessivo (/drill down/)* – Permite a navegação através
+das informações com diferentes níveis de detalhamento. Por exemplo,
+enquanto o gestor financeiro visualiza a receita total da empresa no
+primeiro trimestre, ele pode desmembrá-lo em valores mensais dentro do
+trimestre. Dependendo da forma como a estrutura foi elaborada, ele
+poderá “descer” até o nível das receitas diárias.
+
+*Diferentes dimensões (/slicing and dicing/)* – O usuário pode alterar
+as dimensões para obter uma visualização diferente dos dados.
+
+Por exemplo: um relatório de receitas trimestrais por canal de venda
+pode ser facilmente alterado para um relatório de vendas por linha de
+produto.
+
+*Diferentes visualizações* – É possível alterar o formato de
+apresentação das informações por meio da utilização, por exemplo, de
+tabelas, planilhas dinâmicas, gráficos, mapas e recursos visuais.
+Independentemente do formato selecionado, o usuário continua a explorar
+as informações com os recursos mencionados acima. As funções de
+exploração do /Olap/ são executadas em tempo real, fornecendo respostas
+imediatas ao usuário de forma a agilizar o processo analítico e decisório.
+
+* *
+
+*Referência: ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p.162-164.*
+
+* *
+
+* *
+
+	E	
+
+Data warehouse (DW), Olap e data mining.
+
+------------------------------------------------------------------------
+Questão 16/20 - Sistemas de Informação Gerencial
+
+Imagine que você está assistindo televisão normalmente, quando de repente o sinal cai. Para resolver o problema, primeiramente, você confere os cabos, vê se tudo está conectado corretamente e percebe que aparentemente o aparelho está funcionado. Como não encontrou nenhum problema, você liga para operadora de TV por assinatura para buscar a solução.
+
+
+/Atendente:/ MaisCanais, Diego boa tarde. Em que posso ajudá-lo?
+
+
+/Você: /Boa tarde, estou sem o sinal da TV por assinatura.
+
+
+/Atendente:/ Ok, pode confirmar os dados por favor?
+
+
+ Neste momento você confirma seus dados e o atendente gera seu protocolo de atendimento.
+
+
+/Atendente: /Pode anotar o número de seu protocolo, por favor? É 11002233.
+
+
+ Daí para frente, o histórico do seu atendimento já é registrado no sistema.  A sua solicitação será utilizada (ou pelo menos deveria) para que a operadora melhore os serviços prestados. Com o serviço voltando a operar normalmente, provavelmente em alguns dias, a operadora entrará em contato. Dessa vez para saber se você ficou satisfeito com o atendimento e o suporte técnico prestado. Estes dados junto ao histórico do atendimento são armazenados em um banco de dados onde serão processados para que sejam feitas análises de perfis dos clientes, da eficiência do atendimento e até mesmo da qualidade do serviço oferecido.
+
+Este registro mencionado será realizado por um Sistema de Informação Gerencial. *Qual o SIG utilizado na situação descrita? *
+
+Nota: 5.0
+
+	A	
+
+CAD
+
+	B	
+
+MRP
+
+	C	
+
+PCS
+
+	D	
+
+PM
+
+	E	CRM
+/
+
+/
+
+*Você acertou!*
+
+**
+
+O caso descrito acima trata-se do uso do SIG para o relacionamento com
+os clientes, conhecido como CRM (Customer Relationship Managment), que
+abrange a interação da empresa com seus clientes e o valor que os
+produtos e os serviços da empresa podem gerar para eles (ELEUTERIO,
+M.A.M. Sistemas de Informações Gerenciais. Curitiba: Editora
+Intersaberes, 2015, p. 129, Aula 06)
+
+------------------------------------------------------------------------
+Questão 17/20 - Sistemas de Informação Gerencial
+
+Os sistemas de CRM geralmente são pacotes de software compostos por módulos que abrangem as três atividades de relacionamento com os clientes que mencionamos anteriormente- marketing, vendas e atendimento.
+
+
+*Com base nos módulos do CRM, avalie as seguintes asserções e a relação proposta entre elas.*
+
+
+ 
+
+
+I - No que se refere à automação da equipe de vendas, devemos observar que cada vez mais as modernas equipes de vendas utilizam recursos digitais como smartphones, tablets e notebooks para coletar informações de clientes e/ prospects/ em suas visitas de campo.
+
+
+PORQUE
+
+
+ 
+
+
+II - Essas informações servem de apoio à operação comercial, pois facilitam o cadastro online de contato e os registros das informações de prospecção, auxiliam na segmentação de clientes e automatizam as ações de campo.
+
+A respeito destas asserções, assinale a alternativa correta:
+
+Nota: 5.0
+
+	A	
+
+As asserções I e II são proposições verdadeiras, e a II é uma
+justificativa da I.
+
+	B	
+
+As asserções I e II são proposições verdadeiras, mas a II não é uma
+justificativa da I.
+
+/
+
+/
+
+*Você acertou!*
+
+A alternativa correta é a letra “b”. As asserções I e II são proposições
+verdadeiras, mas a II não é uma justificativa da I. As informações que
+servem de apoio à operação comercial, pois facilitam o cadastro online
+de contato e os registros das informações de prospecção, auxiliam na
+segmentação de clientes e automatizam as ações de campo, derivam das
+ferramentas de automação da equipe de vendas, também chamadas de
+ferramentas SFA, do inglês Sales Force Automation. A coleta de dados é
+uma etapa anterior ao uso dos sistemas de informação (ELEUTERIO, M.A.M.
+Sistemas de Informações Gerenciais. Curitiba: Editora Intersaberes,
+2015, p. 129, Aula 06)
+
+	C	
+
+A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+	D	
+
+A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+	E	
+
+As asserções I e II são proposições falsas.
+
+------------------------------------------------------------------------
+Questão 18/20 - Sistemas de Informação Gerencial
+
+Juan, sócio proprietário de uma empresa de materiais de construção, sentiu a necessidade de facilitar o fluxo de informações entre todas as atividades de sua empresa como vendas, logística finanças e recursos humanos. Para isso pediu um conselho ao seu amigo, Ademir, consultor do SEBRAE, sobre o que poderia fazer para facilitar o fluxo de informação. Ademir sugeriu a implantação de um ERP na empresa, mas de antemão adiantou esse processo não é uma tarefa fácil. Assim os objetivos da necessidade de implantação precisariam estar claros para Juan, de modo que este não desanimasse frente aos desafios da implantação. Assim, Juan questionou Ademir sobre quais seriam os objetivos do ERP?
+
+
+Ajude Ademir a responder o questionamento de Juan, julgando as afirmativas em Verdadeiras (V) ou Falsas (F) sobre os objetivos de implantação de um ERP.
+
+
+ 
+
+
+I - O objetivo da implantação de um ERP é para rever processos e eliminar gargalos e retrabalhos.
+
+
+II -  Para melhorar os controles sobre os processos.
+
+
+III - Gerar informações confiáveis para transformá-las em dados para uma melhor tomada de decisão é o objetivo da implantação de um ERP.
+
+
+IV - Tornar a gestão do negócio mais realista, amparada em seus próprios dados estatísticos e assim facilitar a tomada de decisões.
+
+
+ 
+
+
+ 
+
+
+*Agora, marque a sequência correta.*
+
+Nota: 5.0
+
+	A	
+
+F-V-V-V
+
+	B	
+
+V-V-F-V
+
+/
+
+/
+
+*Você acertou!*
+
+Os objetivos de implantação do ERP consistem em rever processos e
+eliminar gargalos e retrabalhos, melhorar os controles sobre os
+processos e tornar a gestão do negócio mais realista, amparada em seus
+próprios dados estatísticos e assim obter amparo na tomada de decisões.
+Contudo, a alternativa III está incorreta, pois o fluxo do processo
+correto é a geração de dados que são interpretados e analisados,
+ganhando relevância e finalidade, tornando-se assim uma informação, e
+não o oposto como colocado na alternativa III (ELEUTERIO, M.A.M.
+Sistemas de Informações Gerenciais. Curitiba: Editora Intersaberes,
+2015, p. 31. Aula 06, texto de contextualização).
+
+	C	
+
+V-F-V- V
+
+	D	
+
+F-V-F-V
+
+	E	
+
+V-F-F-F
+
+------------------------------------------------------------------------
+Questão 19/20 - Sistemas de Informação Gerencial
+
+Os sistemas de informação para a administração financeira (também chamados de sistemas financeiros ou softwares de gestão financeira) são provavelmente os sistemas de informação mais desenvolvidos de uma organização. Isso se deve à importância vital que as operações financeiras desempenham no negócio de uma empresa. Sobre as funções desses sistemas avalie as afirmativas a seguir:
+
+
+ 
+
+
+I - Apoiar as decisões relativas às políticas fiscais e governamentais;
+
+
+II - Gerar informações detalhadas para fins de auditoria interna e/ou externa;
+
+
+III - Monitorar e controlar o estoque e acompanhar os processos;
+
+
+IV - Administração da folha de pagamentos e benefícios dos colaboradores;
+
+*É correto o que se afirma em:*
+
+Nota: 5.0
+
+	A	
+
+Apenas a afirmativa I está correta
+
+	B	
+
+As afirmativas I e II estão corretas
+
+/
+
+/
+
+*Você acertou!*
+
+Apoiar as decisões relativas às políticas fiscais e governamentais e
+gerar informações detalhadas para fins de auditoria interna e/ou externa
+são funções dos sistemas de informações financeiros. Monitorar e
+controlar o estoque e acompanhar os processos são funções dos sistemas
+de informação de manufatura e a administração da folha de pagamentos e
+benefícios dos colaboradores é função do sistema para gestão de pessoas
+(ELEUTERIO, M.A.M. Sistemas de Informações Gerenciais. Curitiba: Editora
+Intersaberes, 2015, p. 127-134-138. Aula 06)
+
+	C	
+
+Apenas afirmativa II e III estão corretas
+
+	D	
+
+As afirmativas II, III e IV estão corretas
+
+	E	
+
+Apenas a afirmativa IV está correta
+
+------------------------------------------------------------------------
+Questão 20/20 - Sistemas de Informação Gerencial
+
+Analise o quadro abaixo e depois responda ao que se pede:
+
+
+O quadro apresenta uma determinada informação que pode ser medida, pois é expressa em números e geralmente usada para comparar metas e resultados, especificar recursos ou produtos finais.
+
+
+*De acordo com os conceitos abordados no livro base da disciplina, identifique o tipo de informação apresentada no quadro:*
+
+
+*Assinale a alternativa correta: *
+
+Nota: 5.0
+
+	A	
+
+ Informações quantitativas.
+
+/
+
+/
+
+*Você acertou!*
+
+*Comentário:* O quadro apresenta uma informação quantitativa, pois estas
+podem ser medidas, expressas em números e são geralmente usadas para
+comparar metas e resultados, especificar recursos ou produtos finais. As
+*informações quantitativas *são aquelas que podem ser mensuradas,
+expressas em números, como em: “a inflação subiu 5% em relação ao mesmo
+período do ano anterior” ou “nossa central telefônica processa, em
+média, 120 ligações por minuto”. As informações quantitativas geralmente
+são usadas para comparar metas e resultados, especificar recursos ou
+produtos finais.
+
+ 
+
+*Referência:* ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na
+Atualidade. Curitiba:  Intersaberes, 2015.p. 33-34.
+	B	
+
+Informações qualitativas.
+
+	C	
+
+Informações gerenciais na atualidade.
+
+	D	
+
+Informações conceituais.
+
+	E	
+
+Informações via telemarketing.
+
+------------------------------------------------------------------------
+
+
+        Orientações para realização da avaliação.
+
+
+
+        Dicas da coordenação:
+
+
+Tempo máximo:
+
+0
+Verifique o horário de funcionamento de seu polo
+
+------------------------------------------------------------------------
+
+A prova que você irá realizar é individual.
+
+As imagens e áudios capturados poderão ser auditados e sua prova poderá
+ser cancelada caso essa regra seja violada.
+
+Precisa de ajuda com as provas on-line? Clique aqui
+<https://univirtuscdn.uninter.com/public/ccdd/faq/index.html>
+
+Se esta for a prova da sua última disciplina do curso, as tentativas de
+prova só poderão ser utilizadas se forem realizadas no mesmo dia.
+
+Caso atinja a média mínima para aprovação na disciplina (nota 70,0 com a
+composição da nota da APOL), o sistema exportará sua nota ao final do
+dia e automaticamente sua grade será fechada, não permitindo novas
+tentativas.
+
+Boa Prova!
+
+
+        // Deseja iniciar a prova agora?
+
+
+NÃO SIM, quero iniciar
+
+
+
+Para realizar essa avaliação é necessária a autorização do polo através
+da geração do token.
+
+Caso você esteja no polo, solicite o token para esta avaliação.
+
+RU
+
+Senha
+
+  * UNINTER <http://www.uninter.com/>
+
+×
+
+carregando...
